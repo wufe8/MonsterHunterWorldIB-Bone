@@ -33,8 +33,7 @@ MonsterHunterWorldIB-Bone
 [MHWTexConverte](https://www.nexusmods.com/monsterhunterworld/mods/440) tex<=>dds转换器
 
 ## 使用方法
-**见[该文件](#MHWI骨架.txt)**
-完全目测 仅供参考
+[mod制作教程](https://github.com/Ezekial711/MonsterHunterWorldModding)
 
 ## 维护者
 wufe8
