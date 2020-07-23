@@ -1,10 +1,10 @@
 "//"往后是注解说明 并不能确定 详细建议查询网络
 如果不能导出 试试这里的数值 说不定就玄学了
 ----------------------
-blockLabel IASkin8wt2UVColor
+blockLabel IASkin8wt2UVColor    //uv材质模式 建议使用该值 任何顶点不可拥有超过8个顶点组权重 枚举值: None, IASkin4wt1UVColor, IASkin8wt2UVColor
 boneremapid 0
-lod 65535                       //控制显示优先级 0代表隐藏 可能无法导出
-material Ch_Pl_Standard_Mt__3
+lod 65535                       //控制显示优先级 0代表隐藏 可能无法导出 插件导出后默认1或65535
+material Ch_Pl_Standard_Mt__3   //采用材质集合 需与.mrl3文件对齐
 unkn 19
 unkn2 33
 unkn3 -61
